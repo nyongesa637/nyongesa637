@@ -9,15 +9,17 @@
 
   <br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://li
-  nkedin.com/in/nimrod-nyongesa-walwe)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@nim
-  rodnyongesa7)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtu
-  be.com/@GamersPulseKE)
-  [![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/NyongesaNi97790)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nimrodnyongesa7@gma
-  il.com)
+  <a href="https://linkedin.com/in/nimrod-nyongesa-walwe"><img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+  height="24" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@nimrodnyongesa7"><img src="https://cdn.simpleicons.org/medium/white" height="24"
+  /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://youtube.com/@GamersPulseKE"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="24"
+  /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/NyongesaNi97790"><img src="https://cdn.simpleicons.org/x/white" height="24"
+  /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://reddit.com/user/The_silentassasin"><img src="https://cdn.simpleicons.org/reddit/FF4500" height="24"
+  /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nimrodnyongesa7@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="24" /></a>
 
   </div>
 
