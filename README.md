@@ -1,191 +1,179 @@
-
-<h1 align="center"><b>Hi , I'm Nimrod Nyongesa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Popularity+Adds+Credibility..&hearts;++;Self-taught+Software+Engineer,;Brawlhalla+Gold+Ranked+Player,;Active+Learner/Researcher,;Love+to+learn..<3"></a>
-</p>
-
-
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="[https://drive.google.com/file/d/1cZiKHQYII3sTxQVv2nSuq5S27J5Hz7O8/view?usp=sharing]" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught Fullstack Web developer
-- Playing Brawlhalla at spare time
-- Currently learning Android App Development using Flutter
-- Personal website [link](https://nimrodnyongesa.vercel.app/)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Javascript](https://img.shields.io/badge/javascript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white)
-    ![Java](https://img.shields.io/badge/java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
-
-<br>   
-    
-- **Fullstack Web Development**:
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
-
-<br>
-
-- **Cloud Hosting**:
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-    <img width="12" />
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
-
-<br>
-<br>
-
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
 <div align="center">
 
-<a href="https://github.com/Panther-12/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Panther-12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Panther-12&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Panther-12"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Nimrod+Nyongesa;Fullstack+Engineer+%7C+AI+Systems+Builder" alt="Typing SVG" />
 
-</a>
-</div>
+  <br/>
 
-<br>
-<br>
-<br>
+  I architect full-stack systems that think — LLM-powered backends, autonomous agent pipelines,<br/>
+  and the frontends that make them usable. 5+ years shipping production code from Nairobi.
 
------
+  <br/>
 
-<br>
-<br>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://li
+  nkedin.com/in/nimrod-nyongesa-walwe)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@nim
+  rodnyongesa7)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtu
+  be.com/@GamersPulseKE)
+  [![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/NyongesaNi97790)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nimrodnyongesa7@gma
+  il.com)
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
+  </div>
 
-<ul>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
 
-<li>
-<a href="https://linkedin.com/in/nimrod-nyongesa-walwe/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Nimrod-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
+  ### `> what I actually build with`
 
-<br>
+  <table>
+  <tr>
+  <td width="50%" valign="top">
 
-<li>
-<a href="https://twitter.com/NimrodWalwe" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Nimrod-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
+  **AI & Agent Systems** — _where I spend most of my time_
 
-<br>
+  Building autonomous workflows, RAG pipelines, and LLM-powered tools that replace manual processes.
 
-<li>
-<a href="mailto:nimrodnyongesa7@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Nimrod-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
+  <p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,redis&theme=dark" />
+  </p>
 
-<li>
-  <a href="https://medium.com/@nimrodnyongesa7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25px" alt="medium logo" style="margin-bottom:5px;"  />
+  `LangChain` `OpenAI APIs` `HuggingFace` `ChromaDB` `Pinecone`
+  `Celery` `Prompt Engineering` `Agentic Orchestration`
+
+  </td>
+  <td width="50%" valign="top">
+
+  **Backend Architecture** — _APIs, queues, and the plumbing_
+
+  Designing API-first backends that handle payments, geolocation, real-time delivery, and async job orchestration.
+
+  <p>
+  <img src="https://skillicons.dev/icons?i=django,nestjs,spring,dotnet,express&theme=dark" />
+  </p>
+
+  `Django REST` `FastAPI` `GraphQL` `Celery + Redis`
+  `M-Pesa Integration` `JWT` `WebSockets`
+
+  </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
+
+  **Frontend & Mobile** — _making complex systems feel simple_
+
+  Connecting AI backends to interfaces people actually want to use. SPAs, mobile apps, real-time dashboards.
+
+  <p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,angular,flutter&theme=dark" />
+  </p>
+
+  `React Native` `Expo` `Three.js` `GSAP` `anime.js`
+  `Tailwind` `Shadcn` `SVG illustration`
+
+  </td>
+  <td width="50%" valign="top">
+
+  **DevOps & Infrastructure** — _GitOps everything_
+
+  CI/CD pipelines, containerized deployments, monitoring. If it's not automated, it's not done.
+
+  <p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions&theme=dark" />
+  </p>
+
+  `Jenkins` `Nginx` `Caddy` `Prometheus` `Grafana`
+  `OpenTelemetry` `Terraform`
+
+  </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
+
+  **Data Layer** — _where state lives_
+
+  Picking the right store for the job — relational for transactions, document for flexibility, vector for AI.
+
+  <p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,firebase&theme=dark" />
+  </p>
+
+  `ChromaDB` `Pinecone` `MySQL` `Cassandra` `Prisma` `Sequelize`
+
+  </td>
+  <td width="50%" valign="top">
+
+  **Systems & Low-Level** — _the rabbit holes_
+
+  When I want to understand how things actually work under the hood.
+
+  <p>
+  <img src="https://skillicons.dev/icons?i=rust,c,zig,lua,arduino&theme=dark" />
+  </p>
+
+  `WebGL` `OpenGL` `FFmpeg` `Godot` `OpenCV`
+
+  </td>
+  </tr>
+  </table>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
+
+  ### `> featured`
+
+  <a href="https://learn.inkwell.sale">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nyonge
+  sa637&repo=computer-deconstructed&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nyongesa637&repo=computer-deconstructed&theme=def
+  ault&hide_border=true" />
+  </picture>
   </a>
-</a>
-</li>
 
-</ul>
-</div>
+  **[Computer Deconstructed](https://learn.inkwell.sale)** — Interactive hardware education from silicon up.
+  16 chapters. 67+ hand-coded SVG illustrations. Zero frameworks. Vanilla JS all the way down.
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
 
-<div align='center'>
+  ### `> stats`
 
-## <b>To whom much is given, much is required...✨</b>
+  <div align="center">
 
-</div>
-<br>
-<br>
-<br>
-<br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nyongesa637
+  &theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=0A84FF" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nyongesa637&theme=default&hide_border=true&include_all
+  _commits=true&count_private=true&show_icons=true" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+  srcset="https://nirzak-streak-stats.vercel.app/?user=nyongesa637&theme=github-dark-blue&hide_border=true" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=nyongesa637&theme=default&hide_border=true" width="49%" />
+  </picture>
 
----
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=
+  nyongesa637&theme=github-dark&hide_border=true&area=true&area_color=0A84FF" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyongesa637&theme=minimal&hide_border=true&
+  area=true" width="98%" />
+  </picture>
+
+  </div>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
+
+  <div align="center">
+
+  <img
+  src="https://github-profile-trophy.vercel.app/?username=nyongesa637&theme=algolia&no-frame=true&column=6&margin-w=10"
+  />
+
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/nyongesa637/nyongesa637/output/github-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/nyongesa637/nyongesa637/output/github-snake.svg#gh-light-mode-only" />
+
+  <sub>The snake eats my contribution graph. Set up the workflow below to generate it.</sub>
+
+  </div>
