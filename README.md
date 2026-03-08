@@ -9,7 +9,7 @@
 
   <br/>
 
-  <a href="https://linkedin.com/in/nimrod-nyongesa-walwe"><img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+  <a href="https://linkedin.com/in/nimrod-nyongesa-walwe"><img src="https://img.shields.io/badge/%20-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
   height="24" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@nimrodnyongesa7"><img src="https://cdn.simpleicons.org/medium/white" height="24"
   /></a>&nbsp;&nbsp;&nbsp;
@@ -176,6 +176,6 @@
   <img src="https://raw.githubusercontent.com/nyongesa637/nyongesa637/output/github-snake-dark.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/nyongesa637/nyongesa637/output/github-snake.svg#gh-light-mode-only" />
 
-  <sub>The snake eats my contribution graph. Set up the workflow below to generate it.</sub>
+  <sub>nom nom nom</sub>
 
   </div>
