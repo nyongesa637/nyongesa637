@@ -121,16 +121,9 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
 
   ### `> featured`
+<img width="1905" height="947" alt="COURSE2" src="https://github.com/user-attachments/assets/488b3a13-e158-4792-9a5a-3577eefe8c5a" />
 
-  <a href="https://learn.inkwell.sale">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nyonge
-  sa637&repo=computer-deconstructed&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nyongesa637&repo=computer-deconstructed&theme=def
-  ault&hide_border=true" />
-  </picture>
-  </a>
-
+ 
   **[Computer Deconstructed](https://learn.inkwell.sale)** — Interactive hardware education from silicon up.
   16 chapters. 67+ hand-coded SVG illustrations. Zero frameworks. Vanilla JS all the way down.
 
