@@ -167,12 +167,6 @@
 
   <div align="center">
 
-  <img
-  src="https://github-profile-trophy.vercel.app/?username=nyongesa637&theme=algolia&no-frame=true&column=6&margin-w=10"
-  />
-
-  <br/><br/>
-
   <img src="https://raw.githubusercontent.com/nyongesa637/nyongesa637/output/github-snake-dark.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/nyongesa637/nyongesa637/output/github-snake.svg#gh-light-mode-only" />
 

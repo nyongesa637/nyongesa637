@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: nyongesa637
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=0a84ff&color_dots=#d0e4ff,#a0c8ff,#4da6ff,#0a84ff
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=0a84ff&color_dots=#0d1117,#0a2a4f,#0a4a8f,#0a84ff
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
